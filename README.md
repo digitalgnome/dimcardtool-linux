@@ -1,5 +1,7 @@
 # DIMcard Tool for Linux
 
+[![license](https://img.shields.io/badge/license-PolyForm%20Noncommercial-orange)](LICENSE.md) [![Python 3](https://img.shields.io/badge/python-3-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=white)](#install) [![CH341A](https://img.shields.io/badge/hardware-CH341A-555)](#install) [![last commit](https://img.shields.io/github/last-commit/digitalgnome/dimcardtool-linux)](https://github.com/digitalgnome/dimcardtool-linux/commits/main)
+
 A native Linux version of mrblinky's Windows
 [DIMcard Tool v1.02](http://mrblinky.net/digimon/vb/dimcardtool/dimcardtool.html),
 using the same hardware: a CH341A programmer wired to a micro-SD breakout. See the
