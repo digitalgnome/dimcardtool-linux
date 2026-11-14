@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.bin
 *.part
+
+# Private DIMcard images/assets: never upload
+/Digimon DIM Cards/
